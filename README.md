@@ -37,7 +37,7 @@ As colunas que mais contribuíram para a precisão do modelo são:
 2. **PRECO**: 12.16%
 
 ## Visualização
-![Relatório de Desempenho do Modelo](./path/to/your/image.png)
+![Relatório de Desempenho do Modelo](https://github.com/bfitzner100/lab-aws-sagemaker-canvas-estoque/blob/main/analise.png)
 
 ## Conclusão
 A análise preditiva demonstrou que a variável `Holiday_BR` teve o maior impacto na precisão do modelo, seguida pelo `PRECO`. Essas informações são cruciais para entender os fatores que influenciam a quantidade de estoque e podem ser usadas para otimizar a gestão de inventário.
